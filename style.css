@@ -1,0 +1,75 @@
+header{
+background: linear-gradient(45deg,lightgreen,blue,lightgreen);
+padding: 10px;
+margin: 5px;
+border-radius: 15px;
+}
+
+header h2{
+font-family: times new romen;
+}
+
+ul li{
+	float: right;
+	list-style: none;
+}
+ul li a{
+text-decoration: none;
+color: white;
+padding: 5px 15px;
+border: 1px solid transform:;
+margin: 15px;
+transition: 0.6 ease;
+}
+ul li a:hover{
+background: linear-gradient(45deg,pink,lightgreen);
+color: black;
+}
+
+h1{
+	text-align: center;
+	color: black;
+	font-size: 50px;
+}
+.welcome h1{
+display: inline-block;
+text-align: center;
+}
+
+
+.intro h2{
+display: inline-block;
+font-size: 30px;
+}
+.intro p{
+	color: black;
+	font-style: bold;
+	}
+
+	.photo img{
+		height: 80px;
+		float: left;
+		margin-top: -550px;
+	}
+.photo1 img{
+height: 100px;
+float: right;
+margin-top: -350px;
+} 
+.pic img{
+height: 400px;
+margin-left: 550px;
+margin-top: -800px;
+}
+footer h2{
+	color: white;
+}
+footer{
+	background-color: black;
+	padding: 20px;
+
+}
+footer p{
+	color: red;
+	font-size: 18px;
+}
